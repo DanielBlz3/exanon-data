@@ -2907,9 +2907,10 @@
       },
       "timestamp": "2025-05-11T03:30:00Z",
       "teamnames": [
-        "Palmeiras ",
+        "Palmerias ",
         "Antuna Raiders"
       ],
+      "scoreline": "1-1",
       "formation": [
         null,
         null
@@ -2923,8 +2924,8 @@
         "Mateo"
       ],
       "leagueRound": 4,
-      "started": false,
-      "finished": false,
+      "started": true,
+      "finished": true,
       "cancelled": false,
       "awarded": false
     },
@@ -2939,6 +2940,7 @@
         "Paris Saint Germain",
         "Inter de Barcelona"
       ],
+      "scoreline": "1-1",
       "formation": [
         null,
         null
@@ -2952,8 +2954,8 @@
         "Nano1109"
       ],
       "leagueRound": 4,
-      "started": false,
-      "finished": false,
+      "started": true,
+      "finished": true,
       "cancelled": false,
       "awarded": false
     },
