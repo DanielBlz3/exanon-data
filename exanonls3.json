@@ -1963,7 +1963,7 @@
                         "ownGoals": 0,
                         "bcm": 1,
                         "duelsWon": 0,
-                        "duelsLost": 0,
+                        "duelsLost": 1,
                         "passesC": 8,
                         "touches": 22,
                         "bonus": 0,
