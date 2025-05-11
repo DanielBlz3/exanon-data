@@ -1910,7 +1910,7 @@
                     {
                         "playerId": 234,
                         "minutes": 20,
-                        "goals": 0,
+                        "goals": 1,
                         "shots": 1,
                         "assists": 0,
                         "secondassists": 0,
@@ -1929,7 +1929,7 @@
                     {
                         "playerId": 236,
                         "minutes": 20,
-                        "goals": 1,
+                        "goals": 0,
                         "shots": 1,
                         "assists": 0,
                         "secondassists": 0,
@@ -1948,7 +1948,7 @@
         ],
         "awayplayers": [
           {
-                        "playerId": 0,
+                        "playerId": 207,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -1972,7 +1972,7 @@
                         "actedAsSweeper": 0
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 271,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -1991,7 +1991,7 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 103,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2010,7 +2010,7 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 272,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2029,7 +2029,7 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 273,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2048,7 +2048,7 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 122,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2067,7 +2067,7 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 231,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2086,7 +2086,7 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 274,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2105,7 +2105,7 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 275,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2124,7 +2124,7 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 276,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2143,7 +2143,7 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 128,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
