@@ -25,7 +25,7 @@
         "Lata"
       ],
       "leagueRound": 1,
-      "started": false,
+      "started": true,
       "finished": true,
       "cancelled": false,
       "awarded": true
@@ -546,7 +546,7 @@
         "ImDqvid"
       ],
       "leagueRound": 1,
-      "started": false,
+      "started": true,
       "finished": true,
       "cancelled": false,
       "awarded": true
