@@ -2796,6 +2796,7 @@
                 "Pelabolas",
                 "Liverpool"
             ],
+            "scoreline": "0-4",
             "formation": [
                 null,
                 null
@@ -2809,8 +2810,8 @@
                 ""
             ],
             "leagueRound": 4,
-            "started": false,
-            "finished": false,
+            "started": true,
+            "finished": true,
             "cancelled": false,
             "awarded": false
         },
@@ -2839,10 +2840,10 @@
                 ""
             ],
             "leagueRound": 4,
-            "started": false,
-            "finished": false,
+            "started": true,
+            "finished": true,
             "cancelled": false,
-            "awarded": false
+            "awarded": true
         },
         {
             "gameId": 114,
@@ -2899,10 +2900,10 @@
                 ""
             ],
             "leagueRound": 4,
-            "started": false,
-            "finished": false,
+            "started": true,
+            "finished": true,
             "cancelled": false,
-            "awarded": false
+            "awarded": true
         },
         
 
