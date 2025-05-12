@@ -3463,23 +3463,6 @@
             "finished": false,
             "cancelled": false,
             "awarded": false
-          },
-          {
-            "gameId": 120,
-            "playerslist": {
-              "homeplayers": [],
-              "awayplayers": []
-            },
-            "teamnames": ["Arsenal", "Liverpool"],
-            "scoreline": "-",
-            "formation": [null, null],
-            "goalscorers": [[], []],
-            "managers": ["", ""],
-            "leagueRound": 5,
-            "started": false,
-            "finished": false,
-            "cancelled": false,
-            "awarded": false
           }
     ]
 }
