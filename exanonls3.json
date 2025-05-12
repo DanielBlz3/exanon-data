@@ -3288,6 +3288,7 @@
         "Pelabolas",
         "Atletico Madrid"
       ],
+      "scoreline": "3-0",
       "formation": [
         null,
         null
@@ -3301,10 +3302,10 @@
         "Bran"
       ],
       "leagueRound": 4,
-      "started": false,
-      "finished": false,
+      "started": true,
+      "finished": true,
       "cancelled": false,
-      "awarded": false
+      "awarded": true
     },
     {
       "gameId": 53,
