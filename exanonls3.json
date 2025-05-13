@@ -6,7 +6,7 @@
         "homeplayers": [],
         "awayplayers": []
       },
-      "timestamp": "2025-04-19T08:00:00",
+      "timestamp": "2025-04-19T08:00:00Z",
       "teamnames": [
         "Aguilas Cementeras",
         "K9army"
@@ -490,7 +490,7 @@
           }
         ]
       },
-      "timestamp": "2025-04-18T09:00:00",
+      "timestamp": "2025-04-18T09:00:00Z",
       "teamnames": [
         "Atletico Madrid",
         "Inter de Barcelona"
@@ -527,7 +527,7 @@
         "homeplayers": [],
         "awayplayers": []
       },
-      "timestamp": "2025-04-19T08:00:00",
+      "timestamp": "2025-04-19T08:00:00Z",
       "teamnames": [
         "Palmerias",
         "Pelabolas"
@@ -1065,7 +1065,7 @@
           }
         ]
       },
-      "timestamp": "2025-04-20T08:00:00",
+      "timestamp": "2025-04-20T08:00:00Z",
       "teamnames": [
         "Arsenal",
         "Liverpool"
@@ -1584,7 +1584,7 @@
           }
         ]
       },
-      "timestamp": "2025-04-20T08:00:00-06:30",
+      "timestamp": "2025-04-20T08:00:00Z",
       "teamnames": [
         "Antuna Raiders",
         "Paris Saint Germain"
