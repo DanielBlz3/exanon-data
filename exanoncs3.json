@@ -2158,8 +2158,8 @@
             "playerslist": {
                 "homeplayers": [
                     {
-                        "playerId": 0
-                        "isGoalkeeper": true,,
+                        "playerId": 0,
+                        "isGoalkeeper": true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2375,7 +2375,7 @@
                 ],
                 "awayplayers": [
                     {
-                        "playerId": 0
+                        "playerId": 0,
                         "isGoalkeeper": true,
                         "minutes": 20,
                         "goals": 0,
