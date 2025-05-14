@@ -2976,8 +2976,8 @@
                 ],
                 "awayplayers": [
                     {
-                        "playerId": 0,
-                                                "isGoalkeeper": true,
+                        "playerId": 254,
+                        "isGoalkeeper": true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3001,7 +3001,7 @@
                         "actedAsSweeper": 0
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 248,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3020,7 +3020,7 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 253,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3039,7 +3039,7 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 159,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3058,7 +3058,7 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 223,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3077,7 +3077,7 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 33,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3096,7 +3096,7 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 90,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3115,7 +3115,7 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 100,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3134,7 +3134,7 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 255,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3153,7 +3153,7 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 98,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3172,7 +3172,7 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 95,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3200,7 +3200,7 @@
             "scoreline": "1-1",
             "formation": [
                 "threetwothreetwo",
-                null
+                "fouronefourone"
             ],
             "goalscorers": [
                 [],
