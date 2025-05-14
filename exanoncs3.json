@@ -2992,12 +2992,12 @@
                         "duelsWon": 0,
                         "duelsLost": 0,
                         "passesC": 0,
-                        "touches": 0,
+                        "touches": 6,
                         "bonus": 0,
                         "saves": 0,
-                        "goalsConceded": 0,
+                        "goalsConceded": 1,
                         "gkPunches": 0,
-                        "gkRecovery": 0,
+                        "gkRecovery": 1,
                         "actedAsSweeper": 0
                     },
                     {
@@ -3015,8 +3015,8 @@
                         "bcm": 0,
                         "duelsWon": 0,
                         "duelsLost": 0,
-                        "passesC": 0,
-                        "touches": 0,
+                        "passesC": 10,
+                        "touches": 24,
                         "bonus": 0
                     },
                     {
@@ -3034,8 +3034,8 @@
                         "bcm": 0,
                         "duelsWon": 0,
                         "duelsLost": 0,
-                        "passesC": 0,
-                        "touches": 0,
+                        "passesC": 7,
+                        "touches": 19,
                         "bonus": 0
                     },
                     {
@@ -3053,8 +3053,8 @@
                         "bcm": 0,
                         "duelsWon": 0,
                         "duelsLost": 0,
-                        "passesC": 0,
-                        "touches": 0,
+                        "passesC": 7,
+                        "touches": 22,
                         "bonus": 0
                     },
                     {
@@ -3072,8 +3072,8 @@
                         "bcm": 0,
                         "duelsWon": 0,
                         "duelsLost": 0,
-                        "passesC": 0,
-                        "touches": 0,
+                        "passesC": 12,
+                        "touches": 22,
                         "bonus": 0
                     },
                     {
@@ -3091,15 +3091,15 @@
                         "bcm": 0,
                         "duelsWon": 0,
                         "duelsLost": 0,
-                        "passesC": 0,
-                        "touches": 0,
+                        "passesC": 6,
+                        "touches": 16,
                         "bonus": 0
                     },
                     {
                         "playerId": 90,
                         "minutes": 20,
                         "goals": 0,
-                        "shots": 0,
+                        "shots": 1,
                         "assists": 0,
                         "secondassists": 0,
                         "keyPasses": 0,
@@ -3110,13 +3110,13 @@
                         "bcm": 0,
                         "duelsWon": 0,
                         "duelsLost": 0,
-                        "passesC": 0,
-                        "touches": 0,
+                        "passesC": 9,
+                        "touches": 30,
                         "bonus": 0
                     },
                     {
                         "playerId": 100,
-                        "minutes": 20,
+                        "minutes": 14,
                         "goals": 0,
                         "shots": 0,
                         "assists": 0,
@@ -3129,8 +3129,8 @@
                         "bcm": 0,
                         "duelsWon": 0,
                         "duelsLost": 0,
-                        "passesC": 0,
-                        "touches": 0,
+                        "passesC": 4,
+                        "touches": 13,
                         "bonus": 0
                     },
                     {
@@ -3148,8 +3148,8 @@
                         "bcm": 0,
                         "duelsWon": 0,
                         "duelsLost": 0,
-                        "passesC": 0,
-                        "touches": 0,
+                        "passesC": 17,
+                        "touches": 41,
                         "bonus": 0
                     },
                     {
@@ -3167,15 +3167,15 @@
                         "bcm": 0,
                         "duelsWon": 0,
                         "duelsLost": 0,
-                        "passesC": 0,
-                        "touches": 0,
+                        "passesC": 9,
+                        "touches": 33,
                         "bonus": 0
                     },
                     {
                         "playerId": 95,
                         "minutes": 20,
                         "goals": 0,
-                        "shots": 0,
+                        "shots": 3,
                         "assists": 0,
                         "secondassists": 0,
                         "keyPasses": 0,
@@ -3186,8 +3186,27 @@
                         "bcm": 0,
                         "duelsWon": 0,
                         "duelsLost": 0,
-                        "passesC": 0,
-                        "touches": 0,
+                        "passesC": 11,
+                        "touches": 27,
+                        "bonus": 0
+                    },
+                    {
+                        "playerId": 256,
+                        "minutes": 6,
+                        "goals": 0,
+                        "shots": 4,
+                        "assists": 0,
+                        "secondassists": 0,
+                        "keyPasses": 0,
+                        "defensiveActions": 0,
+                        "errors": 0,
+                        "bigErrors": 0,
+                        "ownGoals": 0,
+                        "bcm": 0,
+                        "duelsWon": 0,
+                        "duelsLost": 0,
+                        "passesC": 7,
+                        "touches": 21,
                         "bonus": 0
                     }
                 ]
