@@ -3036,7 +3036,7 @@
                         "duelsLost": 0,
                         "passesC": 7,
                         "touches": 19,
-                        "clearanceOffTheLine": 1
+                        "clearancesOffTheLine": 1,
                         "bonus": 0
                     },
                     {
@@ -3223,8 +3223,8 @@
                 "fouronefourone"
             ],
             "goalscorers": [
-                [],
-                []
+                ["Dou 9' (OG)"],
+                ["Tijua 16'"]
             ],
             "managers": [
                 "K9",
