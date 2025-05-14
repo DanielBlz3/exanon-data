@@ -1066,7 +1066,7 @@
             ],
             "leagueRound": 1,
             "started": true,
-            "finished": false,
+            "finished": true,
             "cancelled": false,
             "awarded": true
         },
