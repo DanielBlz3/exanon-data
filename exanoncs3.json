@@ -2603,7 +2603,9 @@
             ],
             "goalscorers": [
                 [],
-                ["Bofet 13'"]
+                [
+                    "Bofet 13'"
+                ]
             ],
             "managers": [
                 "Angry",
@@ -2741,7 +2743,7 @@
                 "homeplayers": [
                     {
                         "playerId": 252,
-                                                "isGoalkeeper": true,
+                        "isGoalkeeper": true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2954,7 +2956,7 @@
                         "touches": 12,
                         "bonus": 0
                     },
-                     {
+                    {
                         "playerId": 257,
                         "minutes": 6,
                         "goals": 0,
@@ -3212,7 +3214,7 @@
                     }
                 ]
             },
-                        "timestamp": "2025-05-01T02:00:00Z",
+            "timestamp": "2025-05-01T02:00:00Z",
             "teamnames": [
                 "K9army",
                 "Inter de Barcelona"
@@ -3223,8 +3225,12 @@
                 "fouronefourone"
             ],
             "goalscorers": [
-                ["Dou 9' (OG)"],
-                ["Tijua 16'"]
+                [
+                    "Dou (OG) 9'"
+                ],
+                [
+                    "Tijua 13'"
+                ]
             ],
             "managers": [
                 "K9",
@@ -3330,7 +3336,7 @@
             "gameId": 114,
             "playerslist": {
                 "homeplayers": [
-                  {
+                    {
                         "playerId": 161,
                         "isGoalkeeper": true,
                         "minutes": 20,
@@ -3545,7 +3551,7 @@
                         "touches": 30,
                         "bonus": 0
                     },
-                  {
+                    {
                         "playerId": 65,
                         "minutes": 9,
                         "goals": 0,
@@ -3564,7 +3570,7 @@
                         "touches": 8,
                         "bonus": 0
                     },
-                  {
+                    {
                         "playerId": 4,
                         "minutes": 10,
                         "goals": 0,
@@ -3583,7 +3589,7 @@
                         "touches": 12,
                         "bonus": 0
                     },
-                  {
+                    {
                         "playerId": 162,
                         "minutes": 10,
                         "goals": 0,
@@ -3604,7 +3610,7 @@
                     }
                 ],
                 "awayplayers": [
-                  {
+                    {
                         "playerId": 173,
                         "isGoalkeeper": true,
                         "minutes": 20,
@@ -3878,74 +3884,122 @@
         {
             "gameId": 116,
             "playerslist": {
-              "homeplayers": [],
-              "awayplayers": []
+                "homeplayers": [],
+                "awayplayers": []
             },
             "timestamp": "2025-05-14T02:00:00Z",
-            "teamnames": ["Aguilas Cementeras", "Palmerias"],
+            "teamnames": [
+                "Aguilas Cementeras",
+                "Palmerias"
+            ],
             "scoreline": "-",
-            "formation": [null, null],
-            "goalscorers": [[], []],
-            "managers": ["", ""],
+            "formation": [
+                null,
+                null
+            ],
+            "goalscorers": [
+                [],
+                []
+            ],
+            "managers": [
+                "",
+                ""
+            ],
             "leagueRound": 5,
             "started": false,
             "finished": false,
             "cancelled": false,
             "awarded": false
-          },
-          {
+        },
+        {
             "gameId": 117,
             "playerslist": {
-              "homeplayers": [],
-              "awayplayers": []
+                "homeplayers": [],
+                "awayplayers": []
             },
             "timestamp": "2025-05-14T02:40:00Z",
-            "teamnames": ["Atletico Madrid", "Pelabolas"],
+            "teamnames": [
+                "Atletico Madrid",
+                "Pelabolas"
+            ],
             "scoreline": "-",
-            "formation": [null, null],
-            "goalscorers": [[], []],
-            "managers": ["", ""],
+            "formation": [
+                null,
+                null
+            ],
+            "goalscorers": [
+                [],
+                []
+            ],
+            "managers": [
+                "",
+                ""
+            ],
             "leagueRound": 5,
             "started": false,
             "finished": false,
             "cancelled": false,
             "awarded": false
-          },
-          {
+        },
+        {
             "gameId": 118,
             "playerslist": {
-              "homeplayers": [],
-              "awayplayers": []
+                "homeplayers": [],
+                "awayplayers": []
             },
             "timestamp": "2025-05-15T02:00:00Z",
-            "teamnames": ["Inter de Barcelona", "Paris Saint Germain"],
+            "teamnames": [
+                "Inter de Barcelona",
+                "Paris Saint Germain"
+            ],
             "scoreline": "-",
-            "formation": [null, null],
-            "goalscorers": [[], []],
-            "managers": ["", ""],
+            "formation": [
+                null,
+                null
+            ],
+            "goalscorers": [
+                [],
+                []
+            ],
+            "managers": [
+                "",
+                ""
+            ],
             "leagueRound": 5,
             "started": false,
             "finished": false,
             "cancelled": false,
             "awarded": false
-          },
-          {
+        },
+        {
             "gameId": 119,
             "playerslist": {
-              "homeplayers": [],
-              "awayplayers": []
+                "homeplayers": [],
+                "awayplayers": []
             },
             "timestamp": "2025-05-15T02:40:00Z",
-            "teamnames": ["K9army", "Antuna Raiders"],
+            "teamnames": [
+                "K9army",
+                "Antuna Raiders"
+            ],
             "scoreline": "-",
-            "formation": [null, null],
-            "goalscorers": [[], []],
-            "managers": ["", ""],
+            "formation": [
+                null,
+                null
+            ],
+            "goalscorers": [
+                [],
+                []
+            ],
+            "managers": [
+                "",
+                ""
+            ],
             "leagueRound": 5,
             "started": false,
             "finished": false,
             "cancelled": false,
             "awarded": false
-          }
+        }
     ]
 }
