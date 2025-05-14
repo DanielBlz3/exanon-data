@@ -2741,6 +2741,7 @@
                 "homeplayers": [
                     {
                         "playerId": 252,
+                                                "isGoalkeeper": true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2952,11 +2953,31 @@
                         "passesC": 6,
                         "touches": 12,
                         "bonus": 0
+                    },
+                     {
+                        "playerId": 257,
+                        "minutes": 6,
+                        "goals": 0,
+                        "shots": 0,
+                        "assists": 0,
+                        "secondassists": 1,
+                        "keyPasses": 1,
+                        "defensiveActions": 0,
+                        "errors": 0,
+                        "bigErrors": 0,
+                        "ownGoals": 0,
+                        "bcm": 0,
+                        "duelsWon": 0,
+                        "duelsLost": 3,
+                        "passesC": 6,
+                        "touches": 19,
+                        "bonus": 0
                     }
                 ],
                 "awayplayers": [
                     {
                         "playerId": 0,
+                                                "isGoalkeeper": true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
