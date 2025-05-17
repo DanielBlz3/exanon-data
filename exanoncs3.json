@@ -4449,7 +4449,7 @@
                 "Atletico Madrid",
                 "Pelabolas"
             ],
-            "scoreline": "-",
+            "scoreline": "2-0",
             "formation": [
                 null,
                 null
@@ -4463,8 +4463,8 @@
                 ""
             ],
             "leagueRound": 5,
-            "started": false,
-            "finished": false,
+            "started": true,
+            "finished": true,
             "cancelled": false,
             "awarded": false
         },
@@ -4479,7 +4479,7 @@
                 "Inter de Barcelona",
                 "Paris Saint Germain"
             ],
-            "scoreline": "-",
+            "scoreline": "3-0",
             "formation": [
                 null,
                 null
@@ -4493,8 +4493,8 @@
                 ""
             ],
             "leagueRound": 5,
-            "started": false,
-            "finished": false,
+            "started": true,
+            "finished": true,
             "cancelled": false,
             "awarded": false
         },
