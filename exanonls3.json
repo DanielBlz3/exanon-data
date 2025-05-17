@@ -4262,7 +4262,7 @@
                         "duelsLost": 0,
                         "passesC": 8,
                         "touches": 24,
-                      "clearanceOffTheLine": 1,
+                                  "clearancesOffTheLine": 1,
                         "bonus": 1
                     },
                     {
