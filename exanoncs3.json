@@ -4545,7 +4545,7 @@
                         "passesC": 12,
                         "touches": 38,
                         "clearancesOffTheLine": 2,
-                        "bonus": 0
+                        "bonus": -3
                     },
                     {
                         "playerId": 160,
@@ -4583,7 +4583,7 @@
                         "duelsLost": 0,
                         "passesC": 9,
                         "touches": 27,
-                        "bonus": 0
+                        "bonus": -1.5
                     },
                     {
                         "playerId": 44,
@@ -4781,7 +4781,7 @@
                         "duelsLost": 0,
                         "passesC": 6,
                         "touches": 22,
-                        "bonus": 0
+                        "bonus": 0.5
                     },
                     {
                         "playerId": 287,
@@ -4895,7 +4895,7 @@
                         "duelsLost": 1,
                         "passesC": 21,
                         "touches": 53,
-                        "bonus": 0
+                        "bonus": 0.5
                     },
                     {
                         "playerId": 10,
