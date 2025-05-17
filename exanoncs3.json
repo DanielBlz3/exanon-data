@@ -4721,7 +4721,7 @@
                 ],
                 "awayplayers": [
                     {
-                        "playerId": 0,
+                        "playerId": 161,
                         "isGoalkeeper": true,
                         "minutes": 20,
                         "goals": 0,
@@ -4736,17 +4736,36 @@
                         "bcm": 0,
                         "duelsWon": 0,
                         "duelsLost": 0,
-                        "passesC": 0,
-                        "touches": 0,
+                        "passesC": 8,
+                        "touches": 12,
                         "bonus": 0,
                         "saves": 0,
                         "goalsConceded": 0,
                         "gkPunches": 0,
-                        "gkRecovery": 0,
-                        "actedAsSweeper": 0
+                        "gkRecovery": 1,
+                        "actedAsSweeper": 3
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 60,
+                        "minutes": 2,
+                        "goals": 0,
+                        "shots": 0,
+                        "assists": 0,
+                        "secondassists": 0,
+                        "keyPasses": 0,
+                        "defensiveActions": 0,
+                        "errors": 0,
+                        "bigErrors": 0,
+                        "ownGoals": 0,
+                        "bcm": 0,
+                        "duelsWon": 0,
+                        "duelsLost": 0,
+                        "passesC": 0,
+                        "touches": 0,
+                        "bonus": 0
+                    },
+                    {
+                        "playerId": 16,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4765,7 +4784,7 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 287,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4784,7 +4803,7 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 15,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4803,7 +4822,26 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 39,
+                        "minutes": 15,
+                        "goals": 0,
+                        "shots": 0,
+                        "assists": 0,
+                        "secondassists": 0,
+                        "keyPasses": 0,
+                        "defensiveActions": 0,
+                        "errors": 0,
+                        "bigErrors": 0,
+                        "ownGoals": 0,
+                        "bcm": 0,
+                        "duelsWon": 0,
+                        "duelsLost": 0,
+                        "passesC": 0,
+                        "touches": 0,
+                        "bonus": 0
+                    },
+                    {
+                        "playerId": 221,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4822,7 +4860,7 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 65,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4841,7 +4879,7 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 55,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4860,7 +4898,7 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
+                        "playerId": 10,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4879,8 +4917,8 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
-                        "minutes": 20,
+                        "playerId": 4,
+                        "minutes": 13,
                         "goals": 0,
                         "shots": 0,
                         "assists": 0,
@@ -4898,8 +4936,8 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
-                        "minutes": 20,
+                        "playerId": 261,
+                        "minutes": 8,
                         "goals": 0,
                         "shots": 0,
                         "assists": 0,
@@ -4917,8 +4955,27 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 0,
-                        "minutes": 20,
+                        "playerId": 56,
+                        "minutes": 7,
+                        "goals": 0,
+                        "shots": 0,
+                        "assists": 0,
+                        "secondassists": 0,
+                        "keyPasses": 0,
+                        "defensiveActions": 0,
+                        "errors": 0,
+                        "bigErrors": 0,
+                        "ownGoals": 0,
+                        "bcm": 0,
+                        "duelsWon": 0,
+                        "duelsLost": 0,
+                        "passesC": 0,
+                        "touches": 0,
+                        "bonus": 0
+                    },
+                    {
+                        "playerId": 61,
+                        "minutes": 5,
                         "goals": 0,
                         "shots": 0,
                         "assists": 0,
@@ -4945,7 +5002,7 @@
             "scoreline": "0-2",
             "formation": [
                 "threefivetwo",
-                null
+                "threetwotwothree"
             ],
             "goalscorers": [
                 [],
