@@ -4227,7 +4227,7 @@
                         "bonus": 0.5
                     },
                     {
-                        "playerId": 160,
+                        "playerId": 252,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4246,7 +4246,7 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 252,
+                        "playerId": 160,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
