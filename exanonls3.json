@@ -4892,7 +4892,7 @@
         "playerslist": {
           "homeplayers": [
             {
-                        "playerId": 264,
+                        "playerId": 266,
                         "isGoalkeeper": true,
                         "minutes": 20,
                         "goals": 0,
@@ -5147,7 +5147,7 @@
           ],
           "awayplayers": [
             {
-                        "playerId": 0,
+                        "playerId": 76,
                         "isGoalkeeper": true,
                         "minutes": 20,
                         "goals": 0,
@@ -5369,7 +5369,7 @@
           "Paris Saint Germain"
         ],
         "scoreline": "1-1",
-        "formation": ["fourthreethree", null],
+        "formation": ["fourthreethree", "threefourthree"],
         "goalscorers": [["Gattuso 20+1' (OG)"], ["Pan 17'"]],
         "managers": [],
         "leagueRound": 5,
