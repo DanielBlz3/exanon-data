@@ -5461,6 +5461,7 @@
           "awayplayers": []
         },
         "timestamp": "2025-05-18T03:00:00Z",
+                "scoreline": "3-0",
         "teamnames": [
           "Liverpool",
           "Palmerias"
@@ -5469,10 +5470,10 @@
         "goalscorers": [[], []],
         "managers": ["", ""],
         "leagueRound": 5,
-        "started": false,
-        "finished": false,
+        "started": true,
+        "finished": true,
         "cancelled": false,
-        "awarded": false
+        "awarded": true
       },
       {
         "gameId": 58,
@@ -5481,6 +5482,7 @@
           "awayplayers": []
         },
                 "timestamp": "2025-05-18T03:40:00Z",
+                "scoreline": "2-0",
         "teamnames": [
           "Inter de Barcelona",
           "Pelabolas"
@@ -5489,8 +5491,8 @@
         "goalscorers": [[], []],
         "managers": ["", ""],
         "leagueRound": 5,
-        "started": false,
-        "finished": false,
+        "started": true,
+        "finished": true,
         "cancelled": false,
         "awarded": false
       },
