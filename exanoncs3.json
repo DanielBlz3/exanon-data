@@ -5031,7 +5031,7 @@
                         "assists": 0,
                         "secondassists": 0,
                         "keyPasses": 0,
-                        "defensiveActions": 0,
+                        "defensiveActions": 2,
                         "errors": 0,
                         "bigErrors": 0,
                         "ownGoals": 0,
@@ -5040,7 +5040,7 @@
                         "duelsLost": 0,
                         "passesC": 0,
                         "touches": 0,
-                        "bonus": 0,
+                        "bonus": 2,
                         "saves": 1,
                         "goalsConceded": 1,
                         "gkPunches": 1,
@@ -5277,6 +5277,7 @@
                     },
                     {
                         "playerId": 65,
+                                                "isGoalkeeper": true,
                         "minutes": 10,
                         "goals": 0,
                         "shots": 0,
@@ -5292,7 +5293,12 @@
                         "duelsLost": 0,
                         "passesC": 2,
                         "touches": 3,
-                        "bonus": 0
+                        "bonus": 0,
+                          "saves": 1,
+                        "goalsConceded": 0,
+                        "gkPunches": 0,
+                        "gkRecovery": 1,
+                        "actedAsSweeper": 1
                     },
                     {
                         "playerId": 55,
