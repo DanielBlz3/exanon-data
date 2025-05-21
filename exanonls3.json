@@ -5503,6 +5503,7 @@
           "awayplayers": []
         },
                         "timestamp": "2025-05-18T04:20:00Z",
+        "scoreline": "2-1",
         "teamnames": [
           "Atletico Madrid",
           "Aguilas Cementeras"
@@ -5511,8 +5512,8 @@
         "goalscorers": [[], []],
         "managers": ["", ""],
         "leagueRound": 5,
-        "started": false,
-        "finished": false,
+        "started": true,
+        "finished": true,
         "cancelled": false,
         "awarded": false
       },
