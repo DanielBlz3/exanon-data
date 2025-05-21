@@ -5064,7 +5064,7 @@
                         "duelsLost": 1,
                         "passesC": 8,
                         "touches": 22,
-                        "bonus": 0
+                        "bonus": -4.5
                     },
                     {
                         "playerId": 16,
@@ -5083,7 +5083,7 @@
                         "duelsLost": 0,
                         "passesC": 2,
                         "touches": 5,
-                        "bonus": -4.5
+                        "bonus": 0
                     },
                     {
                         "playerId": 287,
