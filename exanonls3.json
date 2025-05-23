@@ -6016,13 +6016,13 @@
           "Pelabolas",
           "Arsenal"
         ],
-        "scoreline": "7-0"
+        "scoreline": "7-0",
         "formation": ["fourthreethree", "fourtwofour"],
         "goalscorers": [[], []],
         "managers": ["", ""],
         "leagueRound": 6,
-        "started": false,
-        "finished": false,
+        "started": true,
+        "finished": true,
         "cancelled": false,
         "awarded": false
       },
