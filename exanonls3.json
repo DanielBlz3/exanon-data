@@ -5960,7 +5960,7 @@
           "AS Roma"
         ],
         "scoreline": "4-1",
-        "formation": ["3-4-1-2", null],
+        "formation": ["threefouronetwo", null],
         "goalscorers": [[], []],
         "managers": ["", ""],
         "leagueRound": 6,
