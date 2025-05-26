@@ -5937,9 +5937,9 @@
                     {
                         "playerId": 236,
                         "minutes": 20,
-                        "goals": 1,
+                        "goals": 0,
                         "shots": 1,
-                        "assists": 0,
+                        "assists": 1,
                         "secondassists": 0,
                         "keyPasses": 0,
                         "defensiveActions": 0,
@@ -5956,9 +5956,9 @@
                     {
                         "playerId": 234,
                         "minutes": 20,
-                        "goals": 0,
+                        "goals": 1,
                         "shots": 1,
-                        "assists": 1,
+                        "assists": 0,
                         "secondassists": 0,
                         "keyPasses": 0,
                         "defensiveActions": 0,
