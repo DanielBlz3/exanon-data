@@ -459,10 +459,6 @@
                     "Alisson 19' (OG)"
                 ]
             ],
-            "images": [
-                "https://cdn.glitch.global/ba398850-471f-4a9e-9227-3021efac2da7/exanon-league-boston-united-logo?v=1742944336040",
-                "https://cdn.glitch.global/ba398850-471f-4a9e-9227-3021efac2da7/exanon-league-aguilas-cementeras-logo?v=1742944322207"
-            ],
             "ratings": {
                 "ratingshome": [
                     3.5,
@@ -498,7 +494,11 @@
             "notes": [
                 "Aguilas played with (9) men"
             ],
-            "gamestatus": "FT"
+            "leagueRound": 1,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": false
         },
         {
             "gameId": 6,
@@ -995,7 +995,11 @@
                 "N/A",
                 "ANGRY"
             ],
-            "gamestatus": "FT"
+            "leagueRound": 1,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": false
         },
         {
             "gameId": 7,
@@ -1020,7 +1024,11 @@
                 "Dystaloon",
                 "ImDqvid"
             ],
-            "gamestatus": "W.O"
+            "leagueRound": 1,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": true
         },
         {
             "gameId": 8,
@@ -1040,10 +1048,6 @@
             "goalscorers": [
                 [],
                 []
-            ],
-            "images": [
-                "https://cdn.glitch.global/ba398850-471f-4a9e-9227-3021efac2da7/arsenal?v=1741536008049",
-                "https://cdn.glitch.global/ba398850-471f-4a9e-9227-3021efac2da7/exanon-league-k9army-logo?v=1742944341982"
             ],
             "ratings": {
                 "ratingshome": [
@@ -1077,7 +1081,11 @@
                 "Kai Havertz",
                 "K9"
             ],
-            "gamestatus": "W.O"
+            "leagueRound": 1,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": true
         },
         {
             "gameId": 90,
@@ -1130,7 +1138,11 @@
                 "Sir Busquets",
                 "Bran"
             ],
-            "gamestatus": "FT + W.O"
+            "leagueRound": 1,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": false
         },
         {
             "gameId": 10,
@@ -1620,7 +1632,11 @@
                 "Lata",
                 "Angry"
             ],
-            "gamestatus": "FT"
+            "leagueRound": 1,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": false
         },
         {
             "gameId": 11,
@@ -1673,7 +1689,11 @@
                 "Kai Havertz",
                 "Sir Busquets"
             ],
-            "gamestatus": "FT"
+            "leagueRound": 2,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": false
         },
         {
             "gameId": 12,
@@ -2223,7 +2243,11 @@
                 "Bran",
                 "All-Terrain"
             ],
-            "gamestatus": "FT"
+            "leagueRound": 2,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": false
         },
         {
             "gameId": 13,
@@ -2276,7 +2300,11 @@
                 "Uay Masto",
                 "Davis"
             ],
-            "gamestatus": "W.O"
+            "leagueRound": 2,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": true
         },
         {
             "gameId": 14,
@@ -2329,7 +2357,11 @@
                 "Mateo Mbappe",
                 "Dystaloon"
             ],
-            "gamestatus": "FT"
+            "leagueRound": 2,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": false
         },
         {
             "gameId": 15,
@@ -2817,7 +2849,11 @@
                 "Sir Busquets",
                 "Lata"
             ],
-            "gamestatus": "FT"
+            "leagueRound": 3,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": false
         },
         {
             "gameId": 16,
@@ -3344,7 +3380,12 @@
                 "Angry",
                 "Bran"
             ],
-            "gamestatus": "FT"
+            "leagueRound": 3
+            ,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": false
         },
         {
             "gameId": 17,
@@ -3397,7 +3438,11 @@
                 "All-Terrain",
                 "Kai Havertz"
             ],
-            "gamestatus": "FT"
+            "leagueRound": 3,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": false
         },
         {
             "gameId": 18,
@@ -3887,7 +3932,11 @@
                 "Mateo Mbappe",
                 "ImDqvid"
             ],
-            "gamestatus": "FT"
+            "leagueRound": 3,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": false
         },
         {
             "gameId": 19,
@@ -3940,7 +3989,11 @@
                 "Dystaloon",
                 "Uay Masto"
             ],
-            "gamestatus": "W.0"
+            "leagueRound": 3,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": true
         },
         {
             "gameId": 20,
@@ -3993,7 +4046,11 @@
                 "Lata",
                 "Bran"
             ],
-            "gamestatus": "FT"
+            "leagueRound": 4,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": false
         },
         {
             "gameId": 21,
@@ -4046,7 +4103,11 @@
                 "Sir Busquets",
                 "All-Terrain"
             ],
-            "gamestatus": "FT"
+            "leagueRound": 4,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": false
         },
         {
             "gameId": 22,
@@ -4557,7 +4618,11 @@
                 "Kai Havertz",
                 "Angry"
             ],
-            "gamestatus": "FT"
+            "leagueRound": 4,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": false
         },
         {
             "gameId": 23,
@@ -4610,7 +4675,11 @@
                 "Davis",
                 "Dystaloon"
             ],
-            "gamestatus": "FT"
+            "leagueRound": 4,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": false
         },
         {
             "gameId": 24,
@@ -4663,7 +4732,11 @@
                 "Uay Masto",
                 "ImDqvid"
             ],
-            "gamestatus": "W.0"
+            "leagueRound": 4,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": true
         },
         {
             "gameId": 25,
@@ -5229,7 +5302,11 @@
                 "All-Terrain",
                 "Lata"
             ],
-            "gamestatus": "FT"
+            "leagueRound": 5,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": false
         },
         {
             "gameId": 26,
@@ -5282,7 +5359,11 @@
                 "Bran",
                 "Kai Havertz"
             ],
-            "gamestatus": "3/28"
+            "leagueRound": 5,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": false
         },
         {
             "gameId": 27,
@@ -5870,7 +5951,11 @@
                 "Angry",
                 "Sir Busquets"
             ],
-            "gamestatus": "FT"
+            "leagueRound": 5,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": false
         },
         {
             "gameId": 28,
@@ -5923,7 +6008,11 @@
                 "Mateo Mbappe",
                 "Uay Masto"
             ],
-            "gamestatus": "CANCELADO"
+            "leagueRound": 5,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": true
         },
         {
             "gameId": 29,
@@ -5976,7 +6065,11 @@
                 "ImDqvid",
                 "Davis"
             ],
-            "gamestatus": "3/29"
+            "leagueRound": 5,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": false
         },
         {
             "gameId": 30,
@@ -6486,7 +6579,11 @@
                 "Davis",
                 "Angry"
             ],
-            "gamestatus": "FT"
+            "leagueRound": 6,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": false
         },
         {
             "gameId": 31,
@@ -7035,7 +7132,11 @@
                 "Mateo Mbappe",
                 "Bran"
             ],
-            "gamestatus": "FT"
+            "leagueRound": 6,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": false
         },
         {
             "gameId": 32,
@@ -7585,7 +7686,11 @@
                 "Davis",
                 "Angry"
             ],
-            "gamestatus": "FT Aggregate: (8 - 1)"
+            "leagueRound": 6,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": false
         },
         {
             "gameId": 33,
@@ -8173,7 +8278,11 @@
                 "Bran",
                 "Mateo Mbappe"
             ],
-            "gamestatus": "FT"
+            "leagueRound": 6,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": false
         },
         {
             "gameId": 34,
@@ -8669,41 +8778,15 @@
                     "Bran 6'"
                 ]
             ],
-            "ratings": {
-                "ratingshome": [
-                    5.2,
-                    7.1,
-                    7.5,
-                    6.8,
-                    6.6,
-                    7.4,
-                    6.8,
-                    8.8,
-                    6.0,
-                    6.5,
-                    7.3,
-                    6.3,
-                    6.4
-                ],
-                "ratingsaway": [
-                    4.8,
-                    6.8,
-                    6.3,
-                    6.3,
-                    6.0,
-                    6.8,
-                    6.3,
-                    7.9,
-                    6.6,
-                    7.3,
-                    7.1
-                ]
-            },
             "managers": [
                 "Davis",
                 "Bran"
             ],
-            "gamestatus": "FT"
+            "leagueRound": 7,
+            "started": true,
+            "finished": true,
+            "cancelled": false,
+            "awarded": false
         }
     ]
 }
