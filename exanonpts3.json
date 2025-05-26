@@ -6,7 +6,7 @@
                 "homeplayers": [
                     {
                         "playerId": 29,
-                        "matchRating": 3.5,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -31,7 +31,6 @@
                     },
                     {
                         "playerId": 30,
-                        "matchRating": 8.4,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 1,
@@ -51,7 +50,6 @@
                     },
                     {
                         "playerId": 31,
-                        "matchRating": 7.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -71,7 +69,6 @@
                     },
                     {
                         "playerId": 32,
-                        "matchRating": 5.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -91,7 +88,6 @@
                     },
                     {
                         "playerId": 0,
-                        "matchRating": 6.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -111,7 +107,6 @@
                     },
                     {
                         "playerId": 33,
-                        "matchRating": 6.8,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -131,7 +126,6 @@
                     },
                     {
                         "playerId": 107,
-                        "matchRating": 6.4,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -151,7 +145,6 @@
                     },
                     {
                         "playerId": 34,
-                        "matchRating": 5.9,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -171,7 +164,6 @@
                     },
                     {
                         "playerId": 35,
-                        "matchRating": 6.8,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 3,
@@ -191,7 +183,6 @@
                     },
                     {
                         "playerId": 36,
-                        "matchRating": 5.6,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -211,7 +202,6 @@
                     },
                     {
                         "playerId": 0,
-                        "matchRating": 6.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -233,7 +223,7 @@
                 "awayplayers": [
                     {
                         "playerId": 20,
-                        "matchRating": 5.5,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -258,7 +248,6 @@
                     },
                     {
                         "playerId": 21,
-                        "matchRating": 6.9,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -278,7 +267,6 @@
                     },
                     {
                         "playerId": 22,
-                        "matchRating": 6.8,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -298,7 +286,6 @@
                     },
                     {
                         "playerId": 23,
-                        "matchRating": 5.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -318,7 +305,6 @@
                     },
                     {
                         "playerId": 0,
-                        "matchRating": 6.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -338,7 +324,6 @@
                     },
                     {
                         "playerId": 24,
-                        "matchRating": 6.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -358,7 +343,6 @@
                     },
                     {
                         "playerId": 25,
-                        "matchRating": 7.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -378,7 +362,6 @@
                     },
                     {
                         "playerId": 26,
-                        "matchRating": 7.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -398,7 +381,6 @@
                     },
                     {
                         "playerId": 0,
-                        "matchRating": 6.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -418,7 +400,6 @@
                     },
                     {
                         "playerId": 27,
-                        "matchRating": 9.7,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 5,
@@ -438,7 +419,6 @@
                     },
                     {
                         "playerId": 28,
-                        "matchRating": 8.1,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 1,
@@ -526,7 +506,7 @@
                 "homeplayers": [
                     {
                         "playerId": 40,
-                        "matchRating": 6.6,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -551,7 +531,6 @@
                     },
                     {
                         "playerId": 62,
-                        "matchRating": 7.4,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -571,7 +550,6 @@
                     },
                     {
                         "playerId": 18,
-                        "matchRating": 6.4,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -591,7 +569,6 @@
                     },
                     {
                         "playerId": 16,
-                        "matchRating": 6.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -611,7 +588,6 @@
                     },
                     {
                         "playerId": 162,
-                        "matchRating": 7.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -631,7 +607,6 @@
                     },
                     {
                         "playerId": 153,
-                        "matchRating": 6.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -651,7 +626,6 @@
                     },
                     {
                         "playerId": 15,
-                        "matchRating": 6.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -671,7 +645,6 @@
                     },
                     {
                         "playerId": 19,
-                        "matchRating": 6.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -691,7 +664,6 @@
                     },
                     {
                         "playerId": 56,
-                        "matchRating": 6.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -711,7 +683,6 @@
                     },
                     {
                         "playerId": 63,
-                        "matchRating": 5.8,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -731,7 +702,6 @@
                     },
                     {
                         "playerId": 65,
-                        "matchRating": 5.8,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -753,7 +723,7 @@
                 "awayplayers": [
                     {
                         "playerId": 137,
-                        "matchRating": 6.7,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -778,7 +748,6 @@
                     },
                     {
                         "playerId": 134,
-                        "matchRating": 6.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -798,7 +767,6 @@
                     },
                     {
                         "playerId": 154,
-                        "matchRating": 6.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -818,7 +786,6 @@
                     },
                     {
                         "playerId": 140,
-                        "matchRating": 6.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -838,7 +805,6 @@
                     },
                     {
                         "playerId": 141,
-                        "matchRating": 6.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -858,7 +824,6 @@
                     },
                     {
                         "playerId": 155,
-                        "matchRating": 6.9,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -878,7 +843,6 @@
                     },
                     {
                         "playerId": 156,
-                        "matchRating": 6.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -898,7 +862,6 @@
                     },
                     {
                         "playerId": 17,
-                        "matchRating": 8.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -918,7 +881,6 @@
                     },
                     {
                         "playerId": 133,
-                        "matchRating": 6.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -938,7 +900,6 @@
                     },
                     {
                         "playerId": 131,
-                        "matchRating": 6.6,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -958,7 +919,6 @@
                     },
                     {
                         "playerId": 136,
-                        "matchRating": 8.3,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 1,
@@ -978,7 +938,6 @@
                     },
                     {
                         "playerId": 138,
-                        "matchRating": 6.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -998,7 +957,6 @@
                     },
                     {
                         "playerId": 130,
-                        "matchRating": 6.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -1033,40 +991,6 @@
                     "Yeager 3'"
                 ]
             ],
-            "images": [
-                "https://cdn.glitch.global/ba398850-471f-4a9e-9227-3021efac2da7/Antuna%20Raiders.jpg?v=1740792016532",
-                "https://cdn.glitch.global/ba398850-471f-4a9e-9227-3021efac2da7/exanon-league-palmerias-logo?v=1742944349673"
-            ],
-            "ratings": {
-                "ratingshome": [
-                    6.6,
-                    7.4,
-                    6.4,
-                    6.3,
-                    7.0,
-                    6.1,
-                    6.5,
-                    6.0,
-                    6.2,
-                    5.8,
-                    5.8
-                ],
-                "ratingsaway": [
-                    6.7,
-                    6.5,
-                    6.2,
-                    6.0,
-                    6.5,
-                    6.9,
-                    6.2,
-                    8.1,
-                    6.1,
-                    6.6,
-                    8.3,
-                    6.3,
-                    6.1
-                ]
-            },
             "managers": [
                 "N/A",
                 "ANGRY"
@@ -1092,38 +1016,6 @@
                 [],
                 []
             ],
-            "images": [
-                "https://cdn.glitch.global/ba398850-471f-4a9e-9227-3021efac2da7/exanon-league-liverpool-logo?v=1742944344358",
-                "https://cdn.glitch.global/ba398850-471f-4a9e-9227-3021efac2da7/exanon-league-pelabolas-logo?v=1742944290526"
-            ],
-            "ratings": {
-                "ratingshome": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
-                ],
-                "ratingsaway": [
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
-                ]
-            },
             "managers": [
                 "Dystaloon",
                 "ImDqvid"
@@ -1246,7 +1138,7 @@
                 "homeplayers": [
                     {
                         "playerId": 41,
-                        "matchRating": 6.0,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -1271,7 +1163,6 @@
                     },
                     {
                         "playerId": 5,
-                        "matchRating": 6.6,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -1291,7 +1182,6 @@
                     },
                     {
                         "playerId": 1,
-                        "matchRating": 6.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -1311,7 +1201,6 @@
                     },
                     {
                         "playerId": 6,
-                        "matchRating": 6.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -1331,7 +1220,6 @@
                     },
                     {
                         "playerId": 111,
-                        "matchRating": 6.8,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -1351,7 +1239,6 @@
                     },
                     {
                         "playerId": 115,
-                        "matchRating": 7.3,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 1,
@@ -1371,7 +1258,6 @@
                     },
                     {
                         "playerId": 13,
-                        "matchRating": 6.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -1391,7 +1277,6 @@
                     },
                     {
                         "playerId": 15,
-                        "matchRating": 7.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -1411,7 +1296,6 @@
                     },
                     {
                         "playerId": 109,
-                        "matchRating": 6.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -1431,7 +1315,6 @@
                     },
                     {
                         "playerId": 163,
-                        "matchRating": 6.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -1451,7 +1334,6 @@
                     },
                     {
                         "playerId": 114,
-                        "matchRating": 6.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -1473,7 +1355,7 @@
                 "awayplayers": [
                     {
                         "playerId": 40,
-                        "matchRating": 6.2,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -1498,7 +1380,6 @@
                     },
                     {
                         "playerId": 21,
-                        "matchRating": 7.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -1518,7 +1399,6 @@
                     },
                     {
                         "playerId": 51,
-                        "matchRating": 6.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -1538,7 +1418,6 @@
                     },
                     {
                         "playerId": 22,
-                        "matchRating": 6.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -1558,7 +1437,6 @@
                     },
                     {
                         "playerId": 24,
-                        "matchRating": 6.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -1578,7 +1456,6 @@
                     },
                     {
                         "playerId": 26,
-                        "matchRating": 7.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 2,
@@ -1598,7 +1475,6 @@
                     },
                     {
                         "playerId": 45,
-                        "matchRating": 6.9,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -1618,7 +1494,6 @@
                     },
                     {
                         "playerId": 49,
-                        "matchRating": 7.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -1638,7 +1513,6 @@
                     },
                     {
                         "playerId": 27,
-                        "matchRating": 6.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -1658,7 +1532,6 @@
                     },
                     {
                         "playerId": 28,
-                        "matchRating": 8.3,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 2,
@@ -1678,7 +1551,6 @@
                     },
                     {
                         "playerId": 37,
-                        "matchRating": 10.0,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 3,
@@ -1809,7 +1681,7 @@
                 "homeplayers": [
                     {
                         "playerId": 43,
-                        "matchRating": 6.5,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -1834,7 +1706,6 @@
                     },
                     {
                         "playerId": 86,
-                        "matchRating": 6.8,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -1854,7 +1725,6 @@
                     },
                     {
                         "playerId": 7,
-                        "matchRating": 6.4,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -1874,7 +1744,6 @@
                     },
                     {
                         "playerId": 78,
-                        "matchRating": 6.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -1894,7 +1763,6 @@
                     },
                     {
                         "playerId": 89,
-                        "matchRating": 7.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -1914,7 +1782,6 @@
                     },
                     {
                         "playerId": 11,
-                        "matchRating": 8.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 2,
@@ -1934,7 +1801,6 @@
                     },
                     {
                         "playerId": 79,
-                        "matchRating": 8.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -1954,7 +1820,6 @@
                     },
                     {
                         "playerId": 77,
-                        "matchRating": 6.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -1974,7 +1839,6 @@
                     },
                     {
                         "playerId": 82,
-                        "matchRating": 7.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 2,
@@ -1994,7 +1858,6 @@
                     },
                     {
                         "playerId": 83,
-                        "matchRating": 7.2,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 2,
@@ -2014,7 +1877,6 @@
                     },
                     {
                         "playerId": 88,
-                        "matchRating": 7.1,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 1,
@@ -2034,7 +1896,6 @@
                     },
                     {
                         "playerId": 157,
-                        "matchRating": 7.7,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 1,
@@ -2054,7 +1915,6 @@
                     },
                     {
                         "playerId": 158,
-                        "matchRating": 6.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2076,7 +1936,7 @@
                 "awayplayers": [
                     {
                         "playerId": 32,
-                        "matchRating": 5.4,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2101,7 +1961,6 @@
                     },
                     {
                         "playerId": 177,
-                        "matchRating": 6.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2121,7 +1980,6 @@
                     },
                     {
                         "playerId": 104,
-                        "matchRating": 6.4,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2141,7 +1999,6 @@
                     },
                     {
                         "playerId": 103,
-                        "matchRating": 6.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2161,7 +2018,6 @@
                     },
                     {
                         "playerId": 108,
-                        "matchRating": 6.8,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2181,7 +2037,6 @@
                     },
                     {
                         "playerId": 31,
-                        "matchRating": 6.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2201,7 +2056,6 @@
                     },
                     {
                         "playerId": 34,
-                        "matchRating": 5.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2221,7 +2075,6 @@
                     },
                     {
                         "playerId": 106,
-                        "matchRating": 6.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2241,7 +2094,6 @@
                     },
                     {
                         "playerId": 107,
-                        "matchRating": 6.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2261,7 +2113,6 @@
                     },
                     {
                         "playerId": 30,
-                        "matchRating": 5.8,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2281,7 +2132,6 @@
                     },
                     {
                         "playerId": 105,
-                        "matchRating": 6.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2301,7 +2151,6 @@
                     },
                     {
                         "playerId": 164,
-                        "matchRating": 5.4,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2488,7 +2337,7 @@
                 "homeplayers": [
                     {
                         "playerId": 42,
-                        "matchRating": 5.6,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2513,7 +2362,6 @@
                     },
                     {
                         "playerId": 94,
-                        "matchRating": 6.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2533,7 +2381,6 @@
                     },
                     {
                         "playerId": 95,
-                        "matchRating": 5.8,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2553,7 +2400,6 @@
                     },
                     {
                         "playerId": 159,
-                        "matchRating": 6.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2573,7 +2419,6 @@
                     },
                     {
                         "playerId": 90,
-                        "matchRating": 6.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2593,7 +2438,6 @@
                     },
                     {
                         "playerId": 99,
-                        "matchRating": 6.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -2613,7 +2457,6 @@
                     },
                     {
                         "playerId": 98,
-                        "matchRating": 6.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2633,7 +2476,6 @@
                     },
                     {
                         "playerId": 92,
-                        "matchRating": 6.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2653,7 +2495,6 @@
                     },
                     {
                         "playerId": 176,
-                        "matchRating": 6.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2673,7 +2514,6 @@
                     },
                     {
                         "playerId": 175,
-                        "matchRating": 6.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -2693,7 +2533,6 @@
                     },
                     {
                         "playerId": 100,
-                        "matchRating": 6.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2715,7 +2554,7 @@
                 "awayplayers": [
                     {
                         "playerId": 41,
-                        "matchRating": 7.2,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2740,7 +2579,6 @@
                     },
                     {
                         "playerId": 109,
-                        "matchRating": 6.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2760,7 +2598,6 @@
                     },
                     {
                         "playerId": 111,
-                        "matchRating": 6.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2780,7 +2617,6 @@
                     },
                     {
                         "playerId": 6,
-                        "matchRating": 6.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2800,7 +2636,6 @@
                     },
                     {
                         "playerId": 20,
-                        "matchRating": 6.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2820,7 +2655,6 @@
                     },
                     {
                         "playerId": 110,
-                        "matchRating": 6.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 2,
@@ -2840,7 +2674,6 @@
                     },
                     {
                         "playerId": 2,
-                        "matchRating": 7.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2860,7 +2693,6 @@
                     },
                     {
                         "playerId": 13,
-                        "matchRating": 7.6,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 1,
@@ -2880,7 +2712,6 @@
                     },
                     {
                         "playerId": 5,
-                        "matchRating": 6.8,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -2900,7 +2731,6 @@
                     },
                     {
                         "playerId": 116,
-                        "matchRating": 8.0,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 3,
@@ -2920,7 +2750,6 @@
                     },
                     {
                         "playerId": 117,
-                        "matchRating": 6.9,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 2,
@@ -2996,7 +2825,7 @@
                 "homeplayers": [
                     {
                         "playerId": 40,
-                        "matchRating": 6.4,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3021,7 +2850,6 @@
                     },
                     {
                         "playerId": 48,
-                        "matchRating": 6.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3041,7 +2869,6 @@
                     },
                     {
                         "playerId": 50,
-                        "matchRating": 6.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3061,7 +2888,6 @@
                     },
                     {
                         "playerId": 22,
-                        "matchRating": 6.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3081,7 +2907,6 @@
                     },
                     {
                         "playerId": 51,
-                        "matchRating": 5.9,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3101,7 +2926,6 @@
                     },
                     {
                         "playerId": 49,
-                        "matchRating": 6.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3121,7 +2945,6 @@
                     },
                     {
                         "playerId": 21,
-                        "matchRating": 6.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3141,7 +2964,6 @@
                     },
                     {
                         "playerId": 37,
-                        "matchRating": 6.9,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3161,7 +2983,6 @@
                     },
                     {
                         "playerId": 27,
-                        "matchRating": 5.9,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3181,7 +3002,6 @@
                     },
                     {
                         "playerId": 28,
-                        "matchRating": 5.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3201,7 +3021,6 @@
                     },
                     {
                         "playerId": 26,
-                        "matchRating": 5.9,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3221,7 +3040,6 @@
                     },
                     {
                         "playerId": 45,
-                        "matchRating": 6.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3241,7 +3059,6 @@
                     },
                     {
                         "playerId": 53,
-                        "matchRating": 6.6,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3263,7 +3080,7 @@
                 "awayplayers": [
                     {
                         "playerId": 43,
-                        "matchRating": 6.5,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3288,7 +3105,6 @@
                     },
                     {
                         "playerId": 7,
-                        "matchRating": 6.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3308,7 +3124,6 @@
                     },
                     {
                         "playerId": 78,
-                        "matchRating": 6.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3328,7 +3143,6 @@
                     },
                     {
                         "playerId": 77,
-                        "matchRating": 6.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3348,7 +3162,6 @@
                     },
                     {
                         "playerId": 86,
-                        "matchRating": 6.4,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3368,7 +3181,6 @@
                     },
                     {
                         "playerId": 11,
-                        "matchRating": 7.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3388,7 +3200,6 @@
                     },
                     {
                         "playerId": 178,
-                        "matchRating": 7.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -3408,7 +3219,6 @@
                     },
                     {
                         "playerId": 82,
-                        "matchRating": 7.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 3,
@@ -3428,7 +3238,6 @@
                     },
                     {
                         "playerId": 79,
-                        "matchRating": 6.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3448,7 +3257,6 @@
                     },
                     {
                         "playerId": 157,
-                        "matchRating": 7.7,
                         "minutes": 20,
                         "goals": 0.5,
                         "shots": 3,
@@ -3468,7 +3276,6 @@
                     },
                     {
                         "playerId": 83,
-                        "matchRating": 6.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3598,7 +3405,7 @@
                 "homeplayers": [
                     {
                         "playerId": 162,
-                        "matchRating": 5.3,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3623,7 +3430,6 @@
                     },
                     {
                         "playerId": 60,
-                        "matchRating": 6.8,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3643,7 +3449,6 @@
                     },
                     {
                         "playerId": 57,
-                        "matchRating": 6.8,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3663,7 +3468,6 @@
                     },
                     {
                         "playerId": 16,
-                        "matchRating": 6.6,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3683,7 +3487,6 @@
                     },
                     {
                         "playerId": 0,
-                        "matchRating": 6.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3703,7 +3506,6 @@
                     },
                     {
                         "playerId": 19,
-                        "matchRating": 7.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 2,
@@ -3723,7 +3525,6 @@
                     },
                     {
                         "playerId": 39,
-                        "matchRating": 7.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 2,
@@ -3743,7 +3544,6 @@
                     },
                     {
                         "playerId": 61,
-                        "matchRating": 9.4,
                         "minutes": 20,
                         "goals": 2,
                         "shots": 3,
@@ -3763,7 +3563,6 @@
                     },
                     {
                         "playerId": 4,
-                        "matchRating": 7.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3783,7 +3582,6 @@
                     },
                     {
                         "playerId": 10,
-                        "matchRating": 10.0,
                         "minutes": 20,
                         "goals": 3,
                         "shots": 4,
@@ -3803,7 +3601,6 @@
                     },
                     {
                         "playerId": 44,
-                        "matchRating": 8.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 4,
@@ -3825,7 +3622,7 @@
                 "awayplayers": [
                     {
                         "playerId": 144,
-                        "matchRating": 4.2,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3850,7 +3647,6 @@
                     },
                     {
                         "playerId": 165,
-                        "matchRating": 6.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3870,7 +3666,6 @@
                     },
                     {
                         "playerId": 166,
-                        "matchRating": 6.4,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3890,7 +3685,6 @@
                     },
                     {
                         "playerId": 145,
-                        "matchRating": 6.6,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3910,7 +3704,6 @@
                     },
                     {
                         "playerId": 146,
-                        "matchRating": 6.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3930,7 +3723,6 @@
                     },
                     {
                         "playerId": 147,
-                        "matchRating": 6.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -3950,7 +3742,6 @@
                     },
                     {
                         "playerId": 148,
-                        "matchRating": 6.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 2,
@@ -3970,7 +3761,6 @@
                     },
                     {
                         "playerId": 149,
-                        "matchRating": 8.0,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 2,
@@ -3990,7 +3780,6 @@
                     },
                     {
                         "playerId": 150,
-                        "matchRating": 6.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4010,7 +3799,6 @@
                     },
                     {
                         "playerId": 151,
-                        "matchRating": 6.9,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -4030,7 +3818,6 @@
                     },
                     {
                         "playerId": 152,
-                        "matchRating": 7.4,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -4267,7 +4054,7 @@
                 "homeplayers": [
                     {
                         "playerId": 76,
-                        "matchRating": 6.3,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4292,7 +4079,6 @@
                     },
                     {
                         "playerId": 72,
-                        "matchRating": 6.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4312,7 +4098,6 @@
                     },
                     {
                         "playerId": 75,
-                        "matchRating": 5.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4332,7 +4117,6 @@
                     },
                     {
                         "playerId": 74,
-                        "matchRating": 6.4,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4352,7 +4136,6 @@
                     },
                     {
                         "playerId": 69,
-                        "matchRating": 6.4,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4372,7 +4155,6 @@
                     },
                     {
                         "playerId": 68,
-                        "matchRating": 6.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4392,7 +4174,6 @@
                     },
                     {
                         "playerId": 3,
-                        "matchRating": 7.6,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4412,7 +4193,6 @@
                     },
                     {
                         "playerId": 63,
-                        "matchRating": 6.4,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4432,7 +4212,6 @@
                     },
                     {
                         "playerId": 64,
-                        "matchRating": 8.0,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 1,
@@ -4452,7 +4231,6 @@
                     },
                     {
                         "playerId": 65,
-                        "matchRating": 6.6,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -4472,7 +4250,6 @@
                     },
                     {
                         "playerId": 67,
-                        "matchRating": 7.9,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 1,
@@ -4494,7 +4271,7 @@
                 "awayplayers": [
                     {
                         "playerId": 40,
-                        "matchRating": 5.7,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4519,7 +4296,6 @@
                     },
                     {
                         "playerId": 48,
-                        "matchRating": 6.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4539,7 +4315,6 @@
                     },
                     {
                         "playerId": 49,
-                        "matchRating": 6.8,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4559,7 +4334,6 @@
                     },
                     {
                         "playerId": 37,
-                        "matchRating": 6.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4579,7 +4353,6 @@
                     },
                     {
                         "playerId": 51,
-                        "matchRating": 6.4,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4599,7 +4372,6 @@
                     },
                     {
                         "playerId": 24,
-                        "matchRating": 5.9,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4619,7 +4391,6 @@
                     },
                     {
                         "playerId": 21,
-                        "matchRating": 6.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -4639,7 +4410,6 @@
                     },
                     {
                         "playerId": 52,
-                        "matchRating": 7.4,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4659,7 +4429,6 @@
                     },
                     {
                         "playerId": 28,
-                        "matchRating": 6.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4679,7 +4448,6 @@
                     },
                     {
                         "playerId": 26,
-                        "matchRating": 8.9,
                         "minutes": 20,
                         "goals": 2,
                         "shots": 3,
@@ -4699,7 +4467,6 @@
                     },
                     {
                         "playerId": 27,
-                        "matchRating": 7.8,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 2,
@@ -4719,7 +4486,6 @@
                     },
                     {
                         "playerId": 54,
-                        "matchRating": 6.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4905,7 +4671,7 @@
                 "homeplayers": [
                     {
                         "playerId": 107,
-                        "matchRating": 4.8,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4930,7 +4696,6 @@
                     },
                     {
                         "playerId": 34,
-                        "matchRating": 6.4,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4950,7 +4715,6 @@
                     },
                     {
                         "playerId": 33,
-                        "matchRating": 6.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4970,7 +4734,6 @@
                     },
                     {
                         "playerId": 167,
-                        "matchRating": 6.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -4990,7 +4753,6 @@
                     },
                     {
                         "playerId": 36,
-                        "matchRating": 6.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -5010,7 +4772,6 @@
                     },
                     {
                         "playerId": 38,
-                        "matchRating": 5.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5030,7 +4791,6 @@
                     },
                     {
                         "playerId": 168,
-                        "matchRating": 6.8,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -5050,7 +4810,6 @@
                     },
                     {
                         "playerId": 105,
-                        "matchRating": 6.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 2,
@@ -5070,7 +4829,6 @@
                     },
                     {
                         "playerId": 92,
-                        "matchRating": 6.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5090,7 +4848,6 @@
                     },
                     {
                         "playerId": 170,
-                        "matchRating": 6.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5110,7 +4867,6 @@
                     },
                     {
                         "playerId": 171,
-                        "matchRating": 6.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5130,7 +4886,6 @@
                     },
                     {
                         "playerId": 169,
-                        "matchRating": 6.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5149,9 +4904,7 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 31,
-                        "matchRating": null,
-                        "minutes": 20,
+                        "playerId": 31,                        "minutes": 20,
                         "goals": 0,
                         "shots": 0,
                         "assists": 0,
@@ -5170,7 +4923,6 @@
                     },
                     {
                         "playerId": 29,
-                        "matchRating": 5.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5192,7 +4944,7 @@
                 "awayplayers": [
                     {
                         "playerId": 41,
-                        "matchRating": 6.7,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5217,7 +4969,6 @@
                     },
                     {
                         "playerId": 109,
-                        "matchRating": 6.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5237,7 +4988,6 @@
                     },
                     {
                         "playerId": 160,
-                        "matchRating": 6.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5257,7 +5007,6 @@
                     },
                     {
                         "playerId": 112,
-                        "matchRating": 6.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5277,7 +5026,6 @@
                     },
                     {
                         "playerId": 113,
-                        "matchRating": 6.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5297,7 +5045,6 @@
                     },
                     {
                         "playerId": 6,
-                        "matchRating": 6.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5317,7 +5064,6 @@
                     },
                     {
                         "playerId": 13,
-                        "matchRating": 7.4,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 1,
@@ -5337,7 +5083,6 @@
                     },
                     {
                         "playerId": 110,
-                        "matchRating": 7.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5357,7 +5102,6 @@
                     },
                     {
                         "playerId": 114,
-                        "matchRating": 6.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5377,7 +5121,6 @@
                     },
                     {
                         "playerId": 118,
-                        "matchRating": 7.8,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 2,
@@ -5397,7 +5140,6 @@
                     },
                     {
                         "playerId": 115,
-                        "matchRating": 7.4,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 1,
@@ -5416,9 +5158,7 @@
                         "bonus": 0
                     },
                     {
-                        "playerId": 2,
-                        "matchRating": null,
-                        "minutes": 20,
+                        "playerId": 2,                        "minutes": 20,
                         "goals": 0,
                         "shots": 0,
                         "assists": 0,
@@ -5550,7 +5290,7 @@
                 "homeplayers": [
                     {
                         "playerId": 40,
-                        "matchRating": 6.5,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5575,7 +5315,6 @@
                     },
                     {
                         "playerId": 37,
-                        "matchRating": 7.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5595,7 +5334,6 @@
                     },
                     {
                         "playerId": 54,
-                        "matchRating": 6.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5615,7 +5353,6 @@
                     },
                     {
                         "playerId": 51,
-                        "matchRating": 7.4,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5635,7 +5372,6 @@
                     },
                     {
                         "playerId": 53,
-                        "matchRating": 6.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5655,7 +5391,6 @@
                     },
                     {
                         "playerId": 21,
-                        "matchRating": 6.4,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5675,7 +5410,6 @@
                     },
                     {
                         "playerId": 52,
-                        "matchRating": 7.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 2,
@@ -5695,7 +5429,6 @@
                     },
                     {
                         "playerId": 49,
-                        "matchRating": 7.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5715,7 +5448,6 @@
                     },
                     {
                         "playerId": 27,
-                        "matchRating": 8.2,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 1,
@@ -5735,7 +5467,6 @@
                     },
                     {
                         "playerId": 28,
-                        "matchRating": 6.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5755,7 +5486,6 @@
                     },
                     {
                         "playerId": 26,
-                        "matchRating": 8.8,
                         "minutes": 20,
                         "goals": 2,
                         "shots": 6,
@@ -5775,7 +5505,6 @@
                     },
                     {
                         "playerId": 45,
-                        "matchRating": 6.8,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5795,7 +5524,6 @@
                     },
                     {
                         "playerId": 22,
-                        "matchRating": 7.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5815,7 +5543,6 @@
                     },
                     {
                         "playerId": 172,
-                        "matchRating": 6.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5837,7 +5564,7 @@
                 "awayplayers": [
                     {
                         "playerId": 42,
-                        "matchRating": 5.7,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5862,7 +5589,6 @@
                     },
                     {
                         "playerId": 90,
-                        "matchRating": 5.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5882,7 +5608,6 @@
                     },
                     {
                         "playerId": 91,
-                        "matchRating": 6.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5902,7 +5627,6 @@
                     },
                     {
                         "playerId": 92,
-                        "matchRating": 7.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5922,7 +5646,6 @@
                     },
                     {
                         "playerId": 93,
-                        "matchRating": 6.6,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5942,7 +5665,6 @@
                     },
                     {
                         "playerId": 97,
-                        "matchRating": 6.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 3,
@@ -5962,7 +5684,6 @@
                     },
                     {
                         "playerId": 96,
-                        "matchRating": 6.6,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -5982,7 +5703,6 @@
                     },
                     {
                         "playerId": 101,
-                        "matchRating": 6.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6002,7 +5722,6 @@
                     },
                     {
                         "playerId": 98,
-                        "matchRating": 6.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6022,7 +5741,6 @@
                     },
                     {
                         "playerId": 179,
-                        "matchRating": 6.6,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6042,7 +5760,6 @@
                     },
                     {
                         "playerId": 175,
-                        "matchRating": 5.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6062,7 +5779,6 @@
                     },
                     {
                         "playerId": 100,
-                        "matchRating": 6.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6082,7 +5798,6 @@
                     },
                     {
                         "playerId": 95,
-                        "matchRating": 6.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6269,7 +5984,7 @@
                 "homeplayers": [
                     {
                         "playerId": 40,
-                        "matchRating": 6.7,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6294,7 +6009,6 @@
                     },
                     {
                         "playerId": 37,
-                        "matchRating": 5.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6314,7 +6028,6 @@
                     },
                     {
                         "playerId": 22,
-                        "matchRating": 6.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6334,7 +6047,6 @@
                     },
                     {
                         "playerId": 54,
-                        "matchRating": 5.8,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6354,7 +6066,6 @@
                     },
                     {
                         "playerId": 51,
-                        "matchRating": 5.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6374,7 +6085,6 @@
                     },
                     {
                         "playerId": 45,
-                        "matchRating": 6.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6394,7 +6104,6 @@
                     },
                     {
                         "playerId": 46,
-                        "matchRating": 7.3,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 1,
@@ -6414,7 +6123,6 @@
                     },
                     {
                         "playerId": 49,
-                        "matchRating": 5.9,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6434,7 +6142,6 @@
                     },
                     {
                         "playerId": 26,
-                        "matchRating": 6.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6454,7 +6161,6 @@
                     },
                     {
                         "playerId": 28,
-                        "matchRating": 6.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6474,7 +6180,6 @@
                     },
                     {
                         "playerId": 27,
-                        "matchRating": 6.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6494,7 +6199,6 @@
                     },
                     {
                         "playerId": 21,
-                        "matchRating": 6.1,
                         "minutes": 8,
                         "goals": 0,
                         "shots": 0,
@@ -6516,7 +6220,7 @@
                 "awayplayers": [
                     {
                         "playerId": 141,
-                        "matchRating": 6.0,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6541,7 +6245,6 @@
                     },
                     {
                         "playerId": 143,
-                        "matchRating": 6.8,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6561,7 +6264,6 @@
                     },
                     {
                         "playerId": 140,
-                        "matchRating": 6.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6581,7 +6283,6 @@
                     },
                     {
                         "playerId": 136,
-                        "matchRating": 7.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -6601,7 +6302,6 @@
                     },
                     {
                         "playerId": 129,
-                        "matchRating": 7.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6621,7 +6321,6 @@
                     },
                     {
                         "playerId": 17,
-                        "matchRating": 7.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6641,7 +6340,6 @@
                     },
                     {
                         "playerId": 139,
-                        "matchRating": 8.4,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6661,7 +6359,6 @@
                     },
                     {
                         "playerId": 138,
-                        "matchRating": 6.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6681,7 +6378,6 @@
                     },
                     {
                         "playerId": 131,
-                        "matchRating": 9.9,
                         "minutes": 20,
                         "goals": 3,
                         "shots": 4,
@@ -6701,7 +6397,6 @@
                     },
                     {
                         "playerId": 133,
-                        "matchRating": 7.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -6721,7 +6416,6 @@
                     },
                     {
                         "playerId": 132,
-                        "matchRating": 9.0,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 3,
@@ -6800,7 +6494,7 @@
                 "homeplayers": [
                     {
                         "playerId": 161,
-                        "matchRating": 6.3,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6825,7 +6519,6 @@
                     },
                     {
                         "playerId": 16,
-                        "matchRating": 5.9,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6845,7 +6538,6 @@
                     },
                     {
                         "playerId": 57,
-                        "matchRating": 6.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6865,7 +6557,6 @@
                     },
                     {
                         "playerId": 60,
-                        "matchRating": 6.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6885,7 +6576,6 @@
                     },
                     {
                         "playerId": 61,
-                        "matchRating": 6.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6905,7 +6595,6 @@
                     },
                     {
                         "playerId": 39,
-                        "matchRating": 7.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6925,7 +6614,6 @@
                     },
                     {
                         "playerId": 15,
-                        "matchRating": 6.9,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -6945,7 +6633,6 @@
                     },
                     {
                         "playerId": 55,
-                        "matchRating": 6.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6965,7 +6652,6 @@
                     },
                     {
                         "playerId": 4,
-                        "matchRating": 6.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -6985,7 +6671,6 @@
                     },
                     {
                         "playerId": 10,
-                        "matchRating": 6.8,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7005,7 +6690,6 @@
                     },
                     {
                         "playerId": 59,
-                        "matchRating": 5.9,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7025,7 +6709,6 @@
                     },
                     {
                         "playerId": 153,
-                        "matchRating": 6.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7047,7 +6730,7 @@
                 "awayplayers": [
                     {
                         "playerId": 43,
-                        "matchRating": 5.2,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7072,7 +6755,6 @@
                     },
                     {
                         "playerId": 86,
-                        "matchRating": 6.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7092,7 +6774,6 @@
                     },
                     {
                         "playerId": 77,
-                        "matchRating": 6.4,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7112,7 +6793,6 @@
                     },
                     {
                         "playerId": 78,
-                        "matchRating": 6.4,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7132,7 +6812,6 @@
                     },
                     {
                         "playerId": 7,
-                        "matchRating": 5.6,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7152,7 +6831,6 @@
                     },
                     {
                         "playerId": 89,
-                        "matchRating": 5.8,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7172,7 +6850,6 @@
                     },
                     {
                         "playerId": 11,
-                        "matchRating": 6.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -7192,7 +6869,6 @@
                     },
                     {
                         "playerId": 88,
-                        "matchRating": 6.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7212,7 +6888,6 @@
                     },
                     {
                         "playerId": 82,
-                        "matchRating": 6.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7232,7 +6907,6 @@
                     },
                     {
                         "playerId": 87,
-                        "matchRating": 6.4,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7252,7 +6926,6 @@
                     },
                     {
                         "playerId": 157,
-                        "matchRating": 6.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -7272,7 +6945,6 @@
                     },
                     {
                         "playerId": 83,
-                        "matchRating": 6.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7292,7 +6964,6 @@
                     },
                     {
                         "playerId": 178,
-                        "matchRating": 6.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7372,7 +7043,7 @@
                 "homeplayers": [
                     {
                         "playerId": 154,
-                        "matchRating": 6.9,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7397,7 +7068,6 @@
                     },
                     {
                         "playerId": 141,
-                        "matchRating": 6.6,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -7417,7 +7087,6 @@
                     },
                     {
                         "playerId": 143,
-                        "matchRating": 6.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7437,7 +7106,6 @@
                     },
                     {
                         "playerId": 142,
-                        "matchRating": 8.0,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 0,
@@ -7457,7 +7125,6 @@
                     },
                     {
                         "playerId": 140,
-                        "matchRating": 7.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7477,7 +7144,6 @@
                     },
                     {
                         "playerId": 137,
-                        "matchRating": 6.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7497,7 +7163,6 @@
                     },
                     {
                         "playerId": 17,
-                        "matchRating": 8.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7517,7 +7182,6 @@
                     },
                     {
                         "playerId": 132,
-                        "matchRating": 8.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 4,
@@ -7537,7 +7201,6 @@
                     },
                     {
                         "playerId": 129,
-                        "matchRating": 7.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 3,
@@ -7557,7 +7220,6 @@
                     },
                     {
                         "playerId": 130,
-                        "matchRating": 9.5,
                         "minutes": 20,
                         "goals": 1.49,
                         "shots": 1,
@@ -7577,7 +7239,6 @@
                     },
                     {
                         "playerId": 134,
-                        "matchRating": 8.9,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 2,
@@ -7597,7 +7258,6 @@
                     },
                     {
                         "playerId": 131,
-                        "matchRating": 6.7,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -7617,7 +7277,6 @@
                     },
                     {
                         "playerId": 133,
-                        "matchRating": 7.3,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 0,
@@ -7639,7 +7298,7 @@
                 "awayplayers": [
                     {
                         "playerId": 40,
-                        "matchRating": 7.1,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7664,7 +7323,6 @@
                     },
                     {
                         "playerId": 22,
-                        "matchRating": 6.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7684,7 +7342,6 @@
                     },
                     {
                         "playerId": 54,
-                        "matchRating": 6.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7704,7 +7361,6 @@
                     },
                     {
                         "playerId": 21,
-                        "matchRating": 6.4,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7724,7 +7380,6 @@
                     },
                     {
                         "playerId": 51,
-                        "matchRating": 6.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7744,7 +7399,6 @@
                     },
                     {
                         "playerId": 45,
-                        "matchRating": 6.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7764,7 +7418,6 @@
                     },
                     {
                         "playerId": 180,
-                        "matchRating": 5.8,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7784,7 +7437,6 @@
                     },
                     {
                         "playerId": 48,
-                        "matchRating": 5.9,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7804,7 +7456,6 @@
                     },
                     {
                         "playerId": 27,
-                        "matchRating": 6.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -7824,7 +7475,6 @@
                     },
                     {
                         "playerId": 46,
-                        "matchRating": 6.4,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -7844,7 +7494,6 @@
                     },
                     {
                         "playerId": 26,
-                        "matchRating": 6.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7864,7 +7513,6 @@
                     },
                     {
                         "playerId": 172,
-                        "matchRating": 5.6,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7945,7 +7593,7 @@
                 "homeplayers": [
                     {
                         "playerId": 85,
-                        "matchRating": 7.1,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7970,7 +7618,6 @@
                     },
                     {
                         "playerId": 7,
-                        "matchRating": 6.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -7990,7 +7637,6 @@
                     },
                     {
                         "playerId": 86,
-                        "matchRating": 6.6,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -8010,7 +7656,6 @@
                     },
                     {
                         "playerId": 78,
-                        "matchRating": 6.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -8030,7 +7675,6 @@
                     },
                     {
                         "playerId": 79,
-                        "matchRating": 7.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -8050,7 +7694,6 @@
                     },
                     {
                         "playerId": 181,
-                        "matchRating": 6.5,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -8070,7 +7713,6 @@
                     },
                     {
                         "playerId": 87,
-                        "matchRating": 6.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -8090,7 +7732,6 @@
                     },
                     {
                         "playerId": 178,
-                        "matchRating": 7.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -8110,7 +7751,6 @@
                     },
                     {
                         "playerId": 82,
-                        "matchRating": 8.0,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 3,
@@ -8130,7 +7770,6 @@
                     },
                     {
                         "playerId": 83,
-                        "matchRating": 8.2,
                         "minutes": 20,
                         "goals": 1,
                         "shots": 3,
@@ -8150,7 +7789,6 @@
                     },
                     {
                         "playerId": 157,
-                        "matchRating": 7.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -8170,7 +7808,6 @@
                     },
                     {
                         "playerId": 89,
-                        "matchRating": 6.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -8190,7 +7827,6 @@
                     },
                     {
                         "playerId": 77,
-                        "matchRating": 6.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -8212,7 +7848,7 @@
                 "awayplayers": [
                     {
                         "playerId": 161,
-                        "matchRating": 6.7,
+                        "isGoalkeeper" : true,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -8237,7 +7873,6 @@
                     },
                     {
                         "playerId": 62,
-                        "matchRating": 5.9,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -8257,7 +7892,6 @@
                     },
                     {
                         "playerId": 60,
-                        "matchRating": 5.8,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -8277,7 +7911,6 @@
                     },
                     {
                         "playerId": 16,
-                        "matchRating": 6.4,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -8297,7 +7930,6 @@
                     },
                     {
                         "playerId": 39,
-                        "matchRating": 6.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -8317,7 +7949,6 @@
                     },
                     {
                         "playerId": 61,
-                        "matchRating": 6.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -8337,7 +7968,6 @@
                     },
                     {
                         "playerId": 182,
-                        "matchRating": 6.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -8357,7 +7987,6 @@
                     },
                     {
                         "playerId": 15,
-                        "matchRating": 6.9,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -8377,7 +8006,6 @@
                     },
                     {
                         "playerId": 59,
-                        "matchRating": 6.2,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -8397,7 +8025,6 @@
                     },
                     {
                         "playerId": 4,
-                        "matchRating": 5.4,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -8417,7 +8044,6 @@
                     },
                     {
                         "playerId": 55,
-                        "matchRating": 6.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -8437,7 +8063,6 @@
                     },
                     {
                         "playerId": 10,
-                        "matchRating": 6.3,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 1,
@@ -8457,7 +8082,6 @@
                     },
                     {
                         "playerId": 57,
-                        "matchRating": 6.0,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -8477,7 +8101,6 @@
                     },
                     {
                         "playerId": 56,
-                        "matchRating": 6.1,
                         "minutes": 20,
                         "goals": 0,
                         "shots": 0,
@@ -8558,7 +8181,7 @@
                 "homeplayers": [
                     {
                         "playerId": 154,
-                        "matchRating": 5.2,
+                        "isGoalkeeper" : true,
                         "minutes": 30,
                         "goals": 0,
                         "shots": 0,
@@ -8583,7 +8206,6 @@
                     },
                     {
                         "playerId": 141,
-                        "matchRating": 7.1,
                         "minutes": 30,
                         "goals": 0,
                         "shots": 0,
@@ -8603,7 +8225,6 @@
                     },
                     {
                         "playerId": 142,
-                        "matchRating": 7.5,
                         "minutes": 30,
                         "goals": 0,
                         "shots": 0,
@@ -8623,7 +8244,6 @@
                     },
                     {
                         "playerId": 140,
-                        "matchRating": 6.8,
                         "minutes": 30,
                         "goals": 0,
                         "shots": 0,
@@ -8643,7 +8263,6 @@
                     },
                     {
                         "playerId": 136,
-                        "matchRating": 6.6,
                         "minutes": 30,
                         "goals": 0,
                         "shots": 0,
@@ -8663,7 +8282,6 @@
                     },
                     {
                         "playerId": 17,
-                        "matchRating": 7.4,
                         "minutes": 30,
                         "goals": 0,
                         "shots": 0,
@@ -8683,7 +8301,6 @@
                     },
                     {
                         "playerId": 130,
-                        "matchRating": 6.8,
                         "minutes": 30,
                         "goals": 0,
                         "shots": 1,
@@ -8703,7 +8320,6 @@
                     },
                     {
                         "playerId": 137,
-                        "matchRating": 8.8,
                         "minutes": 30,
                         "goals": 1,
                         "shots": 2,
@@ -8723,7 +8339,6 @@
                     },
                     {
                         "playerId": 129,
-                        "matchRating": 6.0,
                         "minutes": 30,
                         "goals": 0,
                         "shots": 0,
@@ -8743,7 +8358,6 @@
                     },
                     {
                         "playerId": 131,
-                        "matchRating": 6.5,
                         "minutes": 30,
                         "goals": 0,
                         "shots": 0,
@@ -8763,7 +8377,6 @@
                     },
                     {
                         "playerId": 132,
-                        "matchRating": 7.3,
                         "minutes": 30,
                         "goals": 1,
                         "shots": 0,
@@ -8783,7 +8396,6 @@
                     },
                     {
                         "playerId": 143,
-                        "matchRating": 6.3,
                         "minutes": 30,
                         "goals": 0,
                         "shots": 0,
@@ -8803,7 +8415,6 @@
                     },
                     {
                         "playerId": 134,
-                        "matchRating": 6.4,
                         "minutes": 30,
                         "goals": 0,
                         "shots": 0,
@@ -8825,7 +8436,7 @@
                 "awayplayers": [
                     {
                         "playerId": 85,
-                        "matchRating": 4.8,
+                        "isGoalkeeper" : true,
                         "minutes": 30,
                         "goals": 0,
                         "shots": 0,
@@ -8850,7 +8461,6 @@
                     },
                     {
                         "playerId": 78,
-                        "matchRating": 6.8,
                         "minutes": 30,
                         "goals": 0,
                         "shots": 0,
@@ -8870,7 +8480,6 @@
                     },
                     {
                         "playerId": 77,
-                        "matchRating": 6.3,
                         "minutes": 30,
                         "goals": 0,
                         "shots": 0,
@@ -8890,7 +8499,6 @@
                     },
                     {
                         "playerId": 7,
-                        "matchRating": 6.3,
                         "minutes": 30,
                         "goals": 0,
                         "shots": 0,
@@ -8910,7 +8518,6 @@
                     },
                     {
                         "playerId": 79,
-                        "matchRating": 6.0,
                         "minutes": 30,
                         "goals": 0,
                         "shots": 0,
@@ -8930,7 +8537,6 @@
                     },
                     {
                         "playerId": 80,
-                        "matchRating": 6.8,
                         "minutes": 30,
                         "goals": 0,
                         "shots": 0,
@@ -8950,7 +8556,6 @@
                     },
                     {
                         "playerId": 81,
-                        "matchRating": 6.3,
                         "minutes": 30,
                         "goals": 0,
                         "shots": 0,
@@ -8970,7 +8575,6 @@
                     },
                     {
                         "playerId": 11,
-                        "matchRating": 7.9,
                         "minutes": 30,
                         "goals": 1,
                         "shots": 1,
@@ -8990,7 +8594,6 @@
                     },
                     {
                         "playerId": 82,
-                        "matchRating": 6.6,
                         "minutes": 30,
                         "goals": 0,
                         "shots": 0,
@@ -9010,7 +8613,6 @@
                     },
                     {
                         "playerId": 83,
-                        "matchRating": 7.3,
                         "minutes": 30,
                         "goals": 0,
                         "shots": 1,
@@ -9030,7 +8632,6 @@
                     },
                     {
                         "playerId": 84,
-                        "matchRating": 7.1,
                         "minutes": 30,
                         "goals": 0,
                         "shots": 0,
